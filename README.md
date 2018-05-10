@@ -1,5 +1,5 @@
 # winker
-Setup local subdomain projects easily like never before.
+Setup/host projects in local/production server's virtual host easily like never before.
 
 ### Requirements
 Nodejs >= 8.0
