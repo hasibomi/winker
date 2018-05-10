@@ -1,8 +1,8 @@
 {
   "name": "winker",
   "version": "1.0.1",
-  "description": "",
-  "main": "app.js",
+  "description": "Setup/host projects in local/production server's virtualhost easily like never before",
+  "main": "index.js",
   "bin": {
     "winker": "./index.js"
   },
@@ -10,6 +10,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hasibur Rahman Omi <me@hasibomi.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hasibomi/winker"
+  },
   "license": "MIT",
   "dependencies": {
     "yargs": "^11.0.0"
